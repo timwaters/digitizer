@@ -12,6 +12,8 @@ Demo
 
 A demo of the interface can be found running on Heroku at <a href="http://digitizer.herokuapp.com">http://digitizer.herokuapp.com</a>
 
+![Screenshot of NYPL Map Digitizer](https://github.com/timwaters/digitizer/raw/master/Heroku_screenshot.png "Screenshot of Demo")
+
 Features
 ====
 * Polygon, Line, Point editing
